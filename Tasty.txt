@@ -1,0 +1,2 @@
+Git repo: https://github.com/WehannLouw/tasty-1.git
+Git pages: https://wehannlouw.github.io/tasty-1/
